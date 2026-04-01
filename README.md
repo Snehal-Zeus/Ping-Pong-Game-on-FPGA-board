@@ -1,2 +1,2 @@
 # Ping-Pong-Game-on-FPGA-board
-This Project containes the files(.v) of a Ping-Pong Game implemented in real time on  Intel DE10- Standard Field-Programmable Gate Array (FPGA) development board .
+FPGA-based Pong game using Verilog HDL with VGA output, real-time game logic, and AI opponent on Intel DE10-Standard board
